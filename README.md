@@ -20,6 +20,22 @@ Built this as part of a 1-day intern assessment for Haett. It's a full-stack web
 - Activate or deactivate partner discount codes
 
 ---
+## Features
+
+* Visitor Landing Page
+* User Authentication (Signup/Login)
+* Partner Application Form
+* Pending Application Status View
+* Rejected Application View with Reapply
+* Approved Partner Dashboard
+* Discount Code Management
+* Admin Review Panel
+* Approve / Reject Applications
+* Discount Code Activation / Deactivation
+* Toast Notifications
+* SQLite Database Persistence
+* JWT Authentication
+
 
 ## Tech Stack
 
@@ -121,6 +137,11 @@ You can also create a new account using the Signup page.
 
 ### Approved Partner Dashboard
 <img width="1891" height="856" alt="image" src="https://github.com/user-attachments/assets/7a6c4707-1576-4756-a837-074d29420477" />
+
+### Rejected Application View
+<img width="1916" height="863" alt="image" src="https://github.com/user-attachments/assets/055218c0-10f8-42c6-9426-6894b944ec3d" />
+
+
 
 ### Admin Review Panel
 <img width="1897" height="863" alt="image" src="https://github.com/user-attachments/assets/878a46b3-65db-4f3c-acdb-b2284ddc7cdb" />
