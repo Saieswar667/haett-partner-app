@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 import "./index.css";
 
-const API = "http://localhost:5000/api";
+const API = "http://54.175.79.52:5000";
 
 function App() {
   const [token, setToken] = useState(localStorage.getItem("haettToken"));
