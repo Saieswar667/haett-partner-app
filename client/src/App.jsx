@@ -2,8 +2,7 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 import "./index.css";
 
-const API = "http://54.175.79.52:5000";
-
+const API = "http://54.175.79.52:5000/api";
 function App() {
   const [token, setToken] = useState(localStorage.getItem("haettToken"));
   const [user, setUser] = useState(
